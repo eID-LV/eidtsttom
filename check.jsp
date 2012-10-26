@@ -52,21 +52,21 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </a>
-          <a class="brand" href="http://eidtsttom.pmlp.gov.lv/en/check.php">eID</a>
+          <a class="brand" href="http://eidtsttom.pmlp.gov.lv">eID</a>
           <div class="nav-collapse">
             <ul class="nav">
-              <li class="active"><a href="http://eidtsttom.pmlp.gov.lv/en">Home</a></li>
+              <li class="active"><a href="http://eidtsttom.pmlp.gov.lv">Home</a></li>
             </ul>
 			</div>
 			<div class="nav-collapse"style="float:right">
 				<ul class="nav">
-
-
-				 <li class="active">
-				 <a href="/">LV</a>
-				</li>
-				 <li ><a href="/en/check.jsp">EN</a></li>
-				 </ul>
+					 <li class="active">
+					 <a href="http://eidtsttom.pmlp.gov.lv">LV</a>
+					</li>
+					 <li>
+					 <a href="http://eidtsttom.pmlp.gov.lv/en/">EN</a>
+					 </li>
+				</ul>
           </div><!--/.nav-collapse -->
         </div>
 

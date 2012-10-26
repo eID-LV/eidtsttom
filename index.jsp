@@ -93,7 +93,7 @@ public boolean checkBrowser(String agent){
 				 <li class="active">
 				 <a href="http://eidtsttom.pmlp.gov.lv">LV</a>
 				</li>
-				 <li><a href="/en">EN</a></li>
+				 <li><a href="http://eidtsttom.pmlp.gov.lv/en/">EN</a></li>
 				 </ul>
           </div><!--/.nav-collapse -->
         </div>
@@ -236,10 +236,9 @@ public boolean checkBrowser(String agent){
       ================================================== -->
       <footer style="position:relative;" class="footer">
 	  <hr>
-        <p  class="pull-right"><a href="#">Back to top</a></p>
         <p>Šī vietne darbojas uz Red Hat Enterprise Linux Server 6.2 (Santiago) as virtual guest on Vmware 7. Apache Tomcat 6 . All rights reserved <a href="http://www.pmlp.gov.lv" target="_blank">PMLP</a> 2012. 
 	
-		 	<a href="http://eidtstiis.pmlp.gov.lv" target="_blank">eidtstiis.pmlp.gov.lv</a>
+		 	<a href="http://eidtsttom.pmlp.gov.lv" target="_blank">eidtsttom.pmlp.gov.lv</a>
 	</p>
       </footer>
 		  
@@ -247,7 +246,7 @@ public boolean checkBrowser(String agent){
     </div> <!-- /container -->
 	
 
-    ================================================== -->
+
     <!-- Placed at the end of the document so the pages load faster -->
     <script src="../assets/js/jquery.js"></script>
     <script src="../assets/js/bootstrap-transition.js"></script>

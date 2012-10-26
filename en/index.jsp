@@ -88,10 +88,10 @@ public boolean checkBrowser(String agent){
 			</div>
 			<div class="nav-collapse"style="float:right">
 				<ul class="nav">
-				 <li >
-				 <a href="/">LV</a>
+				 <li>
+				 <a href="http://eidtsttom.pmlp.gov.lv">LV</a>
 				</li>
-				 <li class="active"><a href="/en">EN</a></li>
+				 <li class="active"><a href="http://eidtsttom.pmlp.gov.lv/en/">EN</a></li>
 				 </ul>
           </div><!--/.nav-collapse -->
         </div>
@@ -222,7 +222,7 @@ public boolean checkBrowser(String agent){
 	   Other eID-LV test sites for developers:<br>
 	   <a href="http://eidtstiis.pmlp.gov.lv">eID-LV Authentication integration example on Microsoft IIS</a><br>
 	   <a href="http://eidtstapa.pmlp.gov.lv">eID-LV Authentication integration example on Apache</a><br><br>
-	   Programmatūras kods, kas tiek izmantots šajā un citās integrācijas piemēru lapās ir pieejams GitHub vietnē šeit: <a href="https://github.com/eID-LV">https://github.com/eID-LV</a><br>
+	   Application source code available at GitHub repository here: <a href="https://github.com/eID-LV">https://github.com/eID-LV</a><br>
 	   Documentation of eID-LV integration examples are available here: <br>
 	   -  <a href="http://eidtstiis.pmlp.gov.lv/eID_Apache_en.pdf">Documentation of integration example on Apache webserver</a>;<br>
 	   -  <a href="http://eidtstiis.pmlp.gov.lv/eID_IIS_en.pdf">Documentation of integration example on Microsoft IIS webserver</a>;<br>
@@ -237,10 +237,9 @@ public boolean checkBrowser(String agent){
       ================================================== -->
       <footer style="position:relative;"class="footer">
 	  <hr>
-        <p  class="pull-right"><a href="#">Back to top</a></p>
         <p>Test site is running on Red Hat Enterprise Linux Server 6.2 (Santiago) as virtual guest on Vmware 7. Apache Tomcat 6 . All rights reserved <a href="http://www.pmlp.gov.lv" target="_blank">PMLP</a> 2012. 
 	
-		 	<a href="http://eidtstiis.pmlp.gov.lv" target="_blank">eidtstiis.pmlp.gov.lv</a>
+		 	<a href="http://eidtsttom.pmlp.gov.lv" target="_blank">eidtsttom.pmlp.gov.lv</a>
 	</p>
       </footer>
 		  
