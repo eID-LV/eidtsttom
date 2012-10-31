@@ -100,7 +100,8 @@
 			
 		 if (certChain != null) {  
 		 
-			String dn = certChain[0].getSubjectX500Principal().getName();
+			String dn = certChain[0].getSubjectDN().toString();
+			
 			LdapName ldapDN = new LdapName(dn);
 			
 			for(Rdn rdn: ldapDN.getRdns()) {
